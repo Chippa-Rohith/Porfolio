@@ -5,10 +5,10 @@ export const projectsData = [
   {
     id: 1,
     image: CarrerPilot,
-    title: "CarrerPilot",
+    title: "HireHub",
     category: "web",
-    description: "CareerPilot is a web platform that connects job seekers with employers. Job seekers can discover and apply for job openings, while recruiters can post job listings and review submitted applications.",
-    link:"https://carrer-pilotfrontend-production.up.railway.app/"
+    description: "HireHub is a web platform that connects job seekers with employers. Job seekers can discover and apply for job openings, while recruiters can post job listings and review submitted applications.",
+    link:"https://hirehub.up.railway.app/"
   },
   {
     id: 2,
