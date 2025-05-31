@@ -1,6 +1,6 @@
 import CarrerPilot from "../../assets/CarrerPilot.png";
 import VGR from "../../assets/VGR.png";
-import AIWADROBE from "../../assets/AIWarobe.png"
+import AIWADROBE from "../../assets/AIWadrobe.png"
 import DEFTUNES from "../../assets/Deftunes.png"
 
 export const projectsData = [
