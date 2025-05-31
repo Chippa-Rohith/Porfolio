@@ -17,11 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            I am a passionate creative web developer with a deep love for the dynamic world of web design. 
-            My journey began with crafting visually captivating and interactive websites, where I seamlessly blended artistic vision with cutting-edge technology.
-            My fascination with the limitless possibilities of 3D web development propelled to master complex frameworks and tools, creating immersive digital experiences that leave a lasting impact.
-            Now, driven by an insatiable curiosity and a desire to harness the power of data, presently I am pursuing a career in data science.
-            My ultimate goal is to become a full stack data scientist, integrating my expertise in web development with advanced data analytics to build intelligent, data-driven applications that push the boundaries of innovation.
+            I am a passionate and driven Data Engineer with a strong foundation in building robust and scalable data solutions. My journey began with a deep interest in transforming raw data into actionable insights, seamlessly blending technical expertise with a problem-solving mindset. My fascination with the ever-evolving landscape of cloud-native ETL pipelines and big data technologies propelled me to master complex frameworks and tools, creating efficient and impactful data infrastructures. Now, driven by an insatiable curiosity and a desire to harness the full potential of data, I am continuously expanding my knowledge in machine learning integration and real-time data streaming. My ultimate goal is to become a full-stack data professional, integrating my expertise in data engineering with advanced analytics and machine learning to build intelligent, data-driven applications that push the boundaries of innovation.
           </p>
 
           <a download="" href={Resume} className="button button--flex">

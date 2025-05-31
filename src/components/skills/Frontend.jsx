@@ -3,58 +3,10 @@ import React from "react";
 const Frontend = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Frontend developer</h3>
+      <h3 className="skills__title">Frontend</h3>
 
       <div className="skills__box">
-        <div className="skills__group">
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">HTML</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">CSS</h3>
-              <span className="skills__level">Advanced</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">JavaScript</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-        </div>
-
-        <div className="skills__group">
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Git</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">React</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-        </div>
+        Proficient in building dynamic and interactive user interfaces using modern JavaScript frameworks like React.js and Node.js with Express.js. Experienced in developing full-stack web platforms, including managing user authentication and resource access with JWT. 
       </div>
     </div>
   );

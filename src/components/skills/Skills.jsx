@@ -1,7 +1,10 @@
 import React from "react";
 import "./skills.css";
 import Frontend from "./Frontend";
-import Backend from "./Backend";
+import DataEngineering from "./DataEngineering";
+import MachineLearning from "./MachineLearning";
+import DataAnalysis from "./DataAnalysis";
+import Cloud from "./Cloud";
 
 const Skills = () => {
   return (
@@ -10,8 +13,11 @@ const Skills = () => {
       <span className="section__subtitle">My technical level</span>
 
       <div className="skills__container container grid">
+        <DataEngineering/>
+        <MachineLearning/>
         <Frontend />
-        <Backend />
+        <DataAnalysis/>
+        <Cloud/>
       </div>
     </section>
   );
