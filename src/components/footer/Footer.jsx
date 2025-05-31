@@ -32,14 +32,6 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/rohith_chippa/"
-            className="footer__social-link"
-            target="_blank"
-          >
-            <i className="fa fa-instagram"></i>
-          </a>
-
-          <a
             href="https://github.com/Chippa-Rohith"
             className="footer__social-link"
             target="_blank"

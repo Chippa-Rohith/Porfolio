@@ -55,9 +55,9 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Web Developer / Data Science Student</h3>
+      <h3 className="home__subtitle">Data Engineering / Data Analytics/ Machine Learning</h3>
       <p className="home__description">
-        I'm a web developer, presently pursing data science and aspiring to be a full stack data scientist. I'm very passionate and dedicated to my work.
+        A passionate data science enthusiast leveraging data to develop innovative solutions for real-world challenges.
       </p>
 
       <a href="#contact" className="button button--flex">
